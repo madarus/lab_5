@@ -1,0 +1,144 @@
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=0, 5 452 100
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=1, 40 800
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=2, 15 800
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=3, 15 000
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=4, 14 300
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=5, 19 500
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=6, 15 500
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=7, 15 900
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=8, 15 100
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=9, 35 600
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: Add, ID=10, 14 800
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: AddTotalCount = 10
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: AddTotalTime = 5654400
+дек. 24, 2022 11:06:38 AM AddDataToArray coctailsData
+INFO: AddMedianTime = 565440
+дек. 24, 2022 11:06:38 AM AddDataToArray remove
+INFO: RemoveTotalCount = 1
+дек. 24, 2022 11:06:38 AM AddDataToArray remove
+INFO: RemoveTotalTime = 4 900
+дек. 24, 2022 11:06:38 AM AddDataToArray remove
+INFO: RemoveMedianTime = 4 900
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: LinkedList
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=0, 117 900
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=1, 21 600
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=2, 18 800
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=3, 16 100
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=4, 17 100
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=5, 20 400
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=6, 20 500
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=7, 18 400
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=8, 23 600
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=9, 21 200
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: Add, ID=10, 23 800
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: AddTotalCount = 10
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: AddTotalTime = 319400
+дек. 24, 2022 11:06:38 AM AddDataToLinked coctailsData
+INFO: AddMedianTime = 31940
+дек. 24, 2022 11:06:38 AM AddDataToLinked remove
+INFO: Remove, ID=1, 8 500
+дек. 24, 2022 11:06:38 AM AddDataToLinked remove
+INFO: RemoveTotalCount = 1
+дек. 24, 2022 11:06:38 AM AddDataToLinked remove
+INFO: RemoveTotalTime = 8 500
+дек. 24, 2022 11:06:38 AM AddDataToLinked remove
+INFO: RemoveMedianTime = 8 500
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=0, 2 340 300
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=1, 22 300
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=2, 9 700
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=3, 11 200
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=4, 10 400
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=5, 9 400
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=6, 9 200
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=7, 9 300
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=8, 9 400
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=9, 9 100
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: Add, ID=10, 27 200
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: AddTotalCount = 10
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: AddTotalTime = 2467500
+дек. 24, 2022 12:42:39 PM AddDataToArray coctailsData
+INFO: AddMedianTime = 246750
+дек. 24, 2022 12:42:39 PM AddDataToArray remove
+INFO: RemoveTotalCount = 1
+дек. 24, 2022 12:42:39 PM AddDataToArray remove
+INFO: RemoveTotalTime = 4 200
+дек. 24, 2022 12:42:39 PM AddDataToArray remove
+INFO: RemoveMedianTime = 4 200
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: LinkedList
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=0, 31 900
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=1, 25 800
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=2, 20 500
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=3, 19 600
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=4, 24 700
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=5, 20 600
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=6, 21 500
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=7, 23 400
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=8, 17 300
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=9, 33 100
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: Add, ID=10, 21 700
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: AddTotalCount = 10
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: AddTotalTime = 260100
+дек. 24, 2022 12:42:39 PM AddDataToLinked coctailsData
+INFO: AddMedianTime = 26010
+дек. 24, 2022 12:42:39 PM AddDataToLinked remove
+INFO: Remove, ID=7, 12 400
+дек. 24, 2022 12:42:39 PM AddDataToLinked remove
+INFO: RemoveTotalCount = 1
+дек. 24, 2022 12:42:39 PM AddDataToLinked remove
+INFO: RemoveTotalTime = 12 400
+дек. 24, 2022 12:42:39 PM AddDataToLinked remove
+INFO: RemoveMedianTime = 12 400
